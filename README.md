@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Goku!(bem que eu queria), mas me chamo Felipe
 
-<!--
-**Felip39/Felip39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Atualmente estou estudando no **DevClub** e aprendendo desenvolvimento web.  
+💻 Já tenho experiência com:
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
 
-Here are some ideas to get you started:
+📂 Já criei alguns repositórios para praticar e meus projetos.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 O que estou aprendendo
+- Fundamentos de programação
+- Criação de páginas web responsivas
+- Versionamento de código com Git e GitHub
+
+É isso... Por enquanto! sempre que tiver novidades atualizarei o perfil agradeço por ter me dado alguns minutos da sua atenção e até mais!
+
+---
+
+⭐ Se você gostou dos meus projetos, não esqueça de deixar uma estrela nos repositórios!
